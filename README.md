@@ -1,4 +1,4 @@
-# Gloabl Energy Consumption Dashboard
+# Global Energy Consumption Dashboard
 
 ## Motivation
 
@@ -8,9 +8,9 @@ Understanding global energy consumption trends is important for developing susta
 
 ## App Description
 
-See Video
+See video demo of dashboard found in file: img/demo.mp4 of this repository.
 
-## Installation instructions
+## Installation Instructions
 
 If you're interested in running the app locally follow these high-level steps:
 
@@ -20,20 +20,24 @@ If you're interested in running the app locally follow these high-level steps:
     git clone https://github.ubc.ca/mds-2024-25/DSCI_532_Individual-Assignment.git
     ```
 
-2.  **cd to correct directory** 
+2.  **cd to Correct Directory**
 
     ``` bash
     cd src/
     ```
 
-3.  **Run the app** You can run the dashboard locally by running this command:
+3.  **Run the App:** You can run the dashboard locally by running this command:
 
     ``` bash
     R -e "shiny::runApp(port = 8080, host = '0.0.0.0')"
     ```
 
-4.  **Open in Browser** You can open the app in a browser by copying this command:
+4.  **Open in Browser:** You can open the app in a browser by copying this command:
 
     ```         
     http://0.0.0.0:8080
     ```
+
+## Website Deployment
+
+You can view the dashboard here: <https://jdaduica-r-shiny-app.share.connect.posit.cloud/>
