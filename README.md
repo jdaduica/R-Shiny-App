@@ -8,7 +8,7 @@ Understanding global energy consumption trends is important for developing susta
 
 ## App Description
 
-See video demo of dashboard found in file: img/demo.mp4 of this repository.
+See video demo of dashboard found in file [here](https://github.ubc.ca/mds-2024-25/DSCI_532_individual-assignment_jdaduica/tree/master/img) in this repository.
 
 ## Installation Instructions
 
